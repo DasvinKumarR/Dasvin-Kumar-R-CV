@@ -1,0 +1,31 @@
+body {
+    background-color: #C0EEE4;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 4%;
+    border-color: grey;
+}
+
+h1 {
+    color: #14C38E;
+}
+
+h3 {
+    color: #4C4C6D;
+}
+/* Class Selector */
+.ToolTech:hover {
+    color: black;
+}
+
+.KnowledgeExperience:hover {
+    color: black;
+}
+
+.Contact:hover {
+    color: black;
+}
